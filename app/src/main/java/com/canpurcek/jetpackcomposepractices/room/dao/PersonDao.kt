@@ -1,10 +1,10 @@
-package com.canpurcek.jetpackcomposepractices.dao
+package com.canpurcek.jetpackcomposepractices.room.dao
 
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
-import com.canpurcek.jetpackcomposepractices.entity.PersonEntitiy
+import com.canpurcek.jetpackcomposepractices.room.entity.PersonEntitiy
 
 
 @Dao

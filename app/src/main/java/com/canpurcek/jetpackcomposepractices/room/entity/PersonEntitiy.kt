@@ -1,4 +1,4 @@
-package com.canpurcek.jetpackcomposepractices.entity
+package com.canpurcek.jetpackcomposepractices.room.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
